@@ -39,5 +39,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.8",
+    "eslint": "^8.0.0",
+    "eslint-config-react-app": "^7.0.1",
+    "postcss": "^8.4.16",
+    "tailwind-styled-components": "^2.1.8",
+    "tailwindcss": "^3.1.8"
   }
 }
